@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thành công",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "save": "Lưu",
+    "edit": "Chỉnh sửa",
+    "delete": "Xóa",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "complete": "Hoàn thành",
+    "close": "Đóng",
+    "or": "hoặc"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "loginWith": "Đăng nhập bằng {{provider}}",
+    "githubLogin": "Đăng nhập bằng GitHub",
+    "googleLogin": "Đăng nhập bằng Google",
+    "welcome": "Chào mừng",
+    "loginDescription": "Đăng nhập dễ dàng bằng tài khoản mạng xã hội",
+    "loginRequired": "Cần đăng nhập",
+    "authenticatedUser": "Người dùng đã xác thực",
+    "loginProvider": "Nhà cung cấp đăng nhập",
+    "lastLogin": "Đăng nhập cuối",
+    "accountCreated": "Tài khoản được tạo",
+    "newUser": "Người dùng mới",
+    "loginError": "Đã xảy ra lỗi khi đăng nhập. Vui lòng thử lại.",
+    "processing": "Đang xử lý đăng nhập...",
+    "verifying": "Đang xác minh xác thực...",
+    "continueWithGoogle": "Tiếp tục với Google",
+    "termsText": "Bằng việc đăng nhập, bạn đồng ý với điều khoản dịch vụ"
+  },
+  "navigation": {
+    "dashboard": "Bảng điều khiển",
+    "settings": "Cài đặt",
+    "profile": "Hồ sơ",
+    "language": "Ngôn ngữ",
+    "audioSessions": "Trò chuyện bằng giọng nói",
+    "simulations": "Mô phỏng"
+  },
+  "settings": {
+    "languageSettings": "Cài đặt ngôn ngữ hệ thống",
+    "selectLanguage": "Chọn ngôn ngữ hiển thị",
+    "languageNote": "Thay đổi ngôn ngữ có hiệu lực ngay lập tức",
+    "currentLanguage": "Ngôn ngữ hiện tại",
+    "searchLanguages": "Tìm kiếm ngôn ngữ...",
+    "searchResults": "Kết quả tìm kiếm",
+    "noLanguagesFound": "Không tìm thấy ngôn ngữ",
+    "regions": {
+      "eastasia": "Đông Á",
+      "western": "Ngôn ngữ phương Tây",
+      "southeastasia": "Đông Nam Á",
+      "southasia": "Nam Á",
+      "middleeast": "Trung Đông",
+      "easterneurope": "Đông Âu"
+    }
+  },
+  "profile": {
+    "setup": "Thiết lập hồ sơ",
+    "setupRequired": "Cần thiết lập hồ sơ",
+    "setupDescription": "Thiết lập thông tin hồ sơ cơ bản để sử dụng dịch vụ",
+    "setupButton": "Thiết lập hồ sơ",
+    "editProfile": "Chỉnh sửa hồ sơ",
+    "profileInfo": "Thông tin hồ sơ",
+    "profileInfoDescription": "Bạn có thể xem và chỉnh sửa thông tin cơ bản của tài khoản",
+    "name": "Tên",
+    "nativeLanguage": "Ngôn ngữ mẹ đẻ",
+    "residenceStatus": "Tình trạng cư trú",
+    "firstEntryDate": "Ngày nhập cảnh lần đầu",
+    "familyComposition": "Thành phần gia đình",
+    "longTermGoal": "Mục tiêu dài hạn"
+  },
+  "dashboard": {
+    "title": "Bảng điều khiển",
+    "userInfo": "Thông tin người dùng",
+    "userId": "ID người dùng",
+    "unknownProvider": "Không rõ",
+    "welcome": "Chào mừng!",
+    "welcomeDescription": "Chào mừng đến với dịch vụ Kuuid",
+    "profileCompleteMessage": "Thiết lập hồ sơ đã hoàn tất và bạn có thể sử dụng tất cả các tính năng",
+    "stayDays": "Ngày {{days}} tại Hàn Quốc",
+    "greeting": "Xin chào, {{name}}!",
+    "todayMessage": "Hôm nay cũng cùng tiến bước với Kuuid!",
+    "recommendedMissions": "Nhiệm vụ được đề xuất",
+    "requiredMissions": "Nhiệm vụ cần thiết",
+    "recommendedSimulations": "Mô phỏng được đề xuất",
+    "viewAll": "Xem tất cả",
+    "viewDetails": "Xem chi tiết",
+    "start": "Bắt đầu",
+    "startSimulation": "Bắt đầu mô phỏng",
+    "quickAccess": "Truy cập nhanh",
+    "missions": {
+      "visaExtension": {
+        "title": "Gia hạn visa D-2",
+        "description": "Thực hành thủ tục xin gia hạn visa trước khi hết hạn"
+      },
+      "partTimePermit": {
+        "title": "Xin giấy phép làm việc bán thời gian",
+        "description": "Xin giấy phép lao động cho việc làm bán thời gian"
+      },
+      "bankAccount": {
+        "title": "Mở tài khoản ngân hàng",
+        "description": "Thực hành quy trình mở tài khoản tại các ngân hàng Hàn Quốc"
+      },
+      "healthInsurance": {
+        "title": "Đăng ký bảo hiểm y tế quốc gia",
+        "description": "Thủ tục đăng ký bảo hiểm y tế để tiết kiệm chi phí y tế"
+      },
+      "phoneActivation": {
+        "title": "Kích hoạt điện thoại di động",
+        "description": "Thực hành thủ tục xin gia hạn visa trước khi hết hạn"
+      }
+    },
+    "status": {
+      "pending": "Đang chờ",
+      "completed": "Hoàn thành",
+      "urgent": "Khẩn cấp"
+    }
+  },
+  "upgrade": {
+    "toPro": "Nâng cấp lên Pro",
+    "upgradeButton": "Nâng cấp"
+  },
+  "simulations": {
+    "header": "Thử các mô phỏng khác nhau",
+    "start": "Bắt đầu mô phỏng",
+    "moreSimulations": "Nhiều mô phỏng đang được chuẩn bị",
+    "moreSimulationsDescription": "Các mô phỏng kích hoạt điện thoại, đăng ký bảo hiểm y tế, hợp đồng bất động sản, v.v. sẽ sớm được thêm vào"
+  },
+  "success": {
+    "title": "Nhiệm vụ thành công!",
+    "subtitle": "Chúc mừng! Bạn cũng có thể giải quyết tốt các tình huống thực tế",
+    "completed": "Hoàn thành",
+    "viewTips": "Xem mẹo học tập",
+    "retry": "Thử lại",
+    "home": "Trang chủ",
+    "moreSimulations": "Thử các mô phỏng khác nhé"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Mô phỏng",
+      "uiMode": "Chế độ UI",
+      "simulationMode": "Chế độ mô phỏng",
+      "chatMode": "Chế độ trò chuyện",
+      "audioInput": "Đầu vào âm thanh",
+      "textInput": "Đầu vào văn bản",
+      "send": "Gửi",
+      "generating": "Đang tạo...",
+      "recording": "Đang ghi âm...",
+      "recordingDone": "Ghi âm hoàn tất",
+      "pressMic": "Nhấn micro để nói",
+      "notFound": "Không tìm thấy kịch bản",
+      "back": "Quay lại",
+      "conversation": "Trò chuyện với AI"
+    },
+    "status": {
+      "completed": "Hoàn thành",
+      "in_progress": "Đang tiến hành",
+      "pending": "Đang chờ"
+    },
+    "processing": {
+      "analyzing": "Đang phân tích âm thanh...",
+      "transcribing": "Đang chuyển đổi...",
+      "generating": "Đang tạo phản hồi AI...",
+      "synthesizing": "Đang tổng hợp giọng nói...",
+      "complete": "Xử lý hoàn tất"
+    }
+  }
+}

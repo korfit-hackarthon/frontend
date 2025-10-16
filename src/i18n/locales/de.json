@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolgreich",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "complete": "Fertigstellen",
+    "close": "Schließen",
+    "or": "oder"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "loginWith": "Mit {{provider}} anmelden",
+    "githubLogin": "Mit GitHub anmelden",
+    "googleLogin": "Mit Google anmelden",
+    "welcome": "Willkommen",
+    "loginDescription": "Melden Sie sich einfach mit Ihrem Social-Media-Konto an",
+    "loginRequired": "Anmeldung erforderlich",
+    "authenticatedUser": "Authentifizierter Benutzer",
+    "loginProvider": "Anmeldeanbieter",
+    "lastLogin": "Letzte Anmeldung",
+    "accountCreated": "Konto erstellt",
+    "newUser": "Neuer Benutzer",
+    "loginError": "Bei der Anmeldung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+    "processing": "Anmeldung wird verarbeitet...",
+    "verifying": "Authentifizierung wird überprüft...",
+    "continueWithGoogle": "Mit Google fortfahren",
+    "termsText": "Durch die Anmeldung stimmen Sie den Nutzungsbedingungen zu"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "language": "Sprache",
+    "audioSessions": "Sprachgespräche",
+    "simulations": "Simulationen"
+  },
+  "settings": {
+    "languageSettings": "Systemspracheinstellungen",
+    "selectLanguage": "Anzeigesprache auswählen",
+    "languageNote": "Sprachänderungen werden sofort übernommen",
+    "currentLanguage": "Aktuelle Sprache",
+    "searchLanguages": "Sprachen suchen...",
+    "searchResults": "Suchergebnisse",
+    "noLanguagesFound": "Keine Sprachen gefunden",
+    "regions": {
+      "eastasia": "Ostasien",
+      "western": "Westliche Sprachen",
+      "southeastasia": "Südostasien",
+      "southasia": "Südasien",
+      "middleeast": "Naher Osten",
+      "easterneurope": "Osteuropa"
+    }
+  },
+  "profile": {
+    "setup": "Profil einrichten",
+    "setupRequired": "Profil-Einrichtung erforderlich",
+    "setupDescription": "Richten Sie Ihre grundlegenden Profilinformationen ein, um den Service zu nutzen",
+    "setupButton": "Profil einrichten",
+    "editProfile": "Profil bearbeiten",
+    "profileInfo": "Profilinformationen",
+    "profileInfoDescription": "Sie können die grundlegenden Informationen Ihres Kontos anzeigen und bearbeiten",
+    "name": "Name",
+    "nativeLanguage": "Muttersprache",
+    "residenceStatus": "Aufenthaltsstatus",
+    "firstEntryDate": "Erstes Einreisedatum",
+    "familyComposition": "Familienzusammensetzung",
+    "longTermGoal": "Langfristiges Ziel"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "userInfo": "Benutzerinformationen",
+    "userId": "Benutzer-ID",
+    "unknownProvider": "Unbekannt",
+    "welcome": "Willkommen!",
+    "welcomeDescription": "Willkommen beim Kuuid-Service",
+    "profileCompleteMessage": "Die Profil-Einrichtung ist abgeschlossen und Sie können nun alle Funktionen nutzen",
+    "stayDays": "Tag {{days}} in Korea",
+    "greeting": "Hallo, {{name}}!",
+    "todayMessage": "Lassen Sie uns heute auch mit Kuuid voranschreiten!",
+    "recommendedMissions": "Empfohlene Missionen",
+    "requiredMissions": "Erforderliche Missionen",
+    "recommendedSimulations": "Empfohlene Simulationen",
+    "viewAll": "Alle anzeigen",
+    "viewDetails": "Details anzeigen",
+    "start": "Starten",
+    "startSimulation": "Simulation starten",
+    "quickAccess": "Schnellzugriff",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2 Visa-Verlängerung",
+        "description": "Üben Sie das Visa-Verlängerungsverfahren vor dem Ablauf"
+      },
+      "partTimePermit": {
+        "title": "Teilzeit-Arbeitserlaubnis-Antrag",
+        "description": "Beantragen Sie eine Arbeitserlaubnis für Teilzeitbeschäftigung"
+      },
+      "bankAccount": {
+        "title": "Bankkonto-Eröffnung",
+        "description": "Üben Sie den Prozess der Kontoeröffnung bei koreanischen Banken"
+      },
+      "healthInsurance": {
+        "title": "Nationale Krankenversicherung-Anmeldung",
+        "description": "Krankenversicherungs-Anmeldeverfahren zur Senkung der Arztkosten"
+      },
+      "phoneActivation": {
+        "title": "Mobiltelefon-Aktivierung",
+        "description": "Üben Sie das Visa-Verlängerungsverfahren vor dem Ablauf"
+      }
+    },
+    "status": {
+      "pending": "Ausstehend",
+      "completed": "Abgeschlossen",
+      "urgent": "Dringend"
+    }
+  },
+  "upgrade": {
+    "toPro": "Auf Pro upgraden",
+    "upgradeButton": "Upgraden"
+  },
+  "simulations": {
+    "header": "Probieren Sie verschiedene Simulationen aus",
+    "start": "Simulation starten",
+    "moreSimulations": "Weitere Simulationen in Vorbereitung",
+    "moreSimulationsDescription": "Simulationen für Telefonaktivierung, Krankenversicherungsanmeldung, Immobilienverträge usw. werden bald hinzugefügt"
+  },
+  "success": {
+    "title": "Mission erfolgreich!",
+    "subtitle": "Herzlichen Glückwunsch! Sie können auch reale Situationen gut lösen",
+    "completed": "Abgeschlossen",
+    "viewTips": "Lerntipps anzeigen",
+    "retry": "Erneut versuchen",
+    "home": "Startseite",
+    "moreSimulations": "Probieren Sie auch andere Simulationen aus"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulation",
+      "uiMode": "UI-Modus",
+      "simulationMode": "Simulationsmodus",
+      "chatMode": "Chat-Modus",
+      "audioInput": "Audio-Eingabe",
+      "textInput": "Text-Eingabe",
+      "send": "Senden",
+      "generating": "Generierung...",
+      "recording": "Aufnahme...",
+      "recordingDone": "Aufnahme abgeschlossen",
+      "pressMic": "Mikrofon drücken zum Sprechen",
+      "notFound": "Szenario nicht gefunden",
+      "back": "Zurück",
+      "conversation": "Gespräch mit KI"
+    },
+    "status": {
+      "completed": "Abgeschlossen",
+      "in_progress": "In Bearbeitung",
+      "pending": "Ausstehend"
+    },
+    "processing": {
+      "analyzing": "Audio-Analyse...",
+      "transcribing": "Transkription...",
+      "generating": "KI-Antwort generieren...",
+      "synthesizing": "Sprachsynthese...",
+      "complete": "Verarbeitung abgeschlossen"
+    }
+  }
+}

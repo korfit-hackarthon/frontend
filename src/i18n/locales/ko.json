@@ -1,0 +1,223 @@
+{
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "success": "성공했습니다",
+    "cancel": "취소",
+    "confirm": "확인",
+    "save": "저장",
+    "edit": "수정",
+    "delete": "삭제",
+    "back": "이전",
+    "next": "다음",
+    "complete": "완료",
+    "close": "닫기",
+    "or": "또는"
+  },
+  "auth": {
+    "login": "로그인",
+    "logout": "로그아웃",
+    "loginWith": "{{provider}}으로 로그인",
+    "githubLogin": "GitHub으로 로그인",
+    "googleLogin": "Google로 로그인",
+    "welcome": "환영합니다",
+    "loginDescription": "소셜 계정으로 간편하게 로그인하세요",
+    "loginRequired": "로그인이 필요합니다",
+    "authenticatedUser": "인증된 사용자",
+    "loginProvider": "로그인 제공자",
+    "lastLogin": "마지막 로그인",
+    "accountCreated": "계정 생성",
+    "newUser": "새 사용자",
+    "loginError": "로그인 중 오류가 발생했습니다. 다시 시도해주세요.",
+    "processing": "로그인 처리 중...",
+    "verifying": "인증 확인 중...",
+    "continueWithGoogle": "Google로 로그인",
+    "termsText": "로그인하면 서비스 이용약관에 동의하게 됩니다"
+  },
+  "navigation": {
+    "dashboard": "대시보드",
+    "settings": "설정",
+    "profile": "프로필",
+    "language": "언어",
+    "audioSessions": "음성 대화",
+    "simulations": "시뮬레이션"
+  },
+  "settings": {
+    "languageSettings": "시스템 언어 설정",
+    "selectLanguage": "표시 언어를 선택하세요",
+    "languageNote": "언어 변경은 즉시 적용됩니다",
+    "currentLanguage": "현재 언어",
+    "searchLanguages": "언어 검색...",
+    "searchResults": "검색 결과",
+    "noLanguagesFound": "언어를 찾을 수 없습니다",
+    "regions": {
+      "eastasia": "동아시아",
+      "western": "서구 언어",
+      "southeastasia": "동남아시아",
+      "southasia": "남아시아",
+      "middleeast": "중동",
+      "easterneurope": "동유럽"
+    }
+  },
+  "profile": {
+    "setup": "프로필 설정",
+    "setupRequired": "프로필 설정이 필요합니다",
+    "setupDescription": "서비스 이용을 위해 기본 프로필 정보를 설정해주세요",
+    "setupButton": "프로필 설정하기",
+    "editProfile": "프로필 수정하기",
+    "profileInfo": "프로필 정보",
+    "profileInfoDescription": "등록된 기본 정보입니다",
+    "step": "단계",
+    "stepProgress": "{{current}} / {{total}} 단계",
+    "name": "성함",
+    "nativeLanguage": "모국어",
+    "residenceStatus": "체류자격",
+    "firstEntryDate": "최초입국일",
+    "familyComposition": "가족 구성",
+    "longTermGoal": "장기 목표",
+    "selectNativeLanguage": "모국어 선택해주세요",
+    "enterName": "성함을 입력해주세요",
+    "selectResidenceStatus": "현재 체류자격을 선택해주세요",
+    "enterFirstEntryDate": "최초입국일을 입력해주세요",
+    "selectFamilyComposition": "가족 구성을 선택해주세요",
+    "selectLongTermGoal": "한국에서의 장기 목표를 선택해 주세요",
+    "nativeLanguageDescription": "큐이드가 맞춤형 서비스를 제공 해 드릴게요.",
+    "nameDescription": "서비스에서 사용할 이름을 입력해주세요",
+    "residenceStatusDescription": "귀하의 현재 체류 자격을 선택해주세요",
+    "firstEntryDateDescription": "한국에 처음 입국한 날짜를 입력해주세요",
+    "selectDate": "날짜를 선택해주세요",
+    "familyCompositionDescription": "큐이드가 맞춤형 서비스를 제공해드릴게요",
+    "longTermGoalDescription": "큐이드가 맞춤형 서비스를 제공해드릴게요",
+    "namePlaceholder": "예: 박성희, Sara",
+    "setupError": "프로필 설정 중 오류가 발생했습니다. 다시 시도해주세요.",
+    "setting": "설정 중...",
+    "familyOptions": {
+      "alone": "본인 생활",
+      "withSpouse": "배우자와 함께",
+      "withChildren": "자녀가 있는 가족",
+      "other": "기타 가족 형태"
+    },
+    "goalOptions": {
+      "academic": "학업 완성",
+      "employment": "취업/이민",
+      "business": "취업/영업",
+      "cultural": "문화 체험",
+      "language": "언어 습득"
+    }
+  },
+  "languages": {
+    "korean": "한국어",
+    "english": "English",
+    "changeLanguage": "언어 변경"
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "userInfo": "사용자 정보",
+    "userId": "사용자 ID",
+    "unknownProvider": "알 수 없음",
+    "welcome": "환영합니다!",
+    "welcomeDescription": "Kuuid 서비스에 오신 것을 환영합니다.",
+    "profileCompleteMessage": "프로필 설정이 완료되어 모든 기능을 이용하실 수 있습니다.",
+    "stayDays": "한국과 함께하신 {{days}}일",
+    "greeting": "{{name}}님, 안녕하세요!",
+    "todayMessage": "오늘도 큐이드와 함께해요!",
+    "recommendedMissions": "추천 미션",
+    "requiredMissions": "필수 미션",
+    "recommendedSimulations": "추천 시뮬레이션",
+    "viewAll": "전체 보기",
+    "viewDetails": "자세히 보기",
+    "start": "시작",
+    "startSimulation": "시뮬레이션 시작",
+    "quickAccess": "빠른 액세스",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2 비자 연장",
+        "description": "체류기간 만료 전 비자 연장 신청 절차를 연습해요"
+      },
+      "partTimePermit": {
+        "title": "시간제 취업 허가 신청",
+        "description": "아르바이트를 위한 취업 허가 신청을 해요"
+      },
+      "bankAccount": {
+        "title": "은행계좌개설",
+        "description": "한국 은행에서 계좌를 개설하는 과정을 연습해요"
+      },
+      "healthInsurance": {
+        "title": "국민건강보험 가입",
+        "description": "의료비 절약을 위한 건강보험 가입 절차에요"
+      },
+      "phoneActivation": {
+        "title": "휴대폰 개통",
+        "description": "체류기간 만료 전 비자 연장 신청 절차를 연습해요"
+      }
+    },
+    "status": {
+      "pending": "대기 중",
+      "completed": "완료",
+      "urgent": "긴급"
+    }
+  },
+  "upgrade": {
+    "toPro": "프로 업그레이드",
+    "upgradeButton": "업그레이드"
+  },
+  "simulations": {
+    "header": "다양한 시뮬레이션을 시도해보세요",
+    "start": "시뮬레이션 시작",
+    "moreSimulations": "더 많은 시뮬레이션이 준비 중입니다",
+    "moreSimulationsDescription": "휴대폰 개통, 건강보험 가입, 부동산 계약 등의 시뮬레이션이 곧 추가될 예정입니다"
+  },
+  "success": {
+    "title": "미션 성공!",
+    "subtitle": "축하합니다! 실제 상황에서도 잘 해결할 수 있어요",
+    "completed": "완료",
+    "viewTips": "학습 팁도 확인하기",
+    "retry": "다시 도전",
+    "home": "홈으로",
+    "moreSimulations": "다른 시뮬레이션도 도전해보세요"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "시뮬레이션",
+      "uiMode": "UI 모드",
+      "simulationMode": "시뮬레이션 모드",
+      "chatMode": "채팅 모드",
+      "currentProgress": "현재 진행: {{step}}단계",
+      "currentStatus": "현재 진행상황",
+      "playAudio": "음성 재생",
+      "playing": "재생 중...",
+      "inputPlaceholder": "메시지를 입력하세요...",
+      "send": "전송",
+      "audioInput": "음성 입력",
+      "textInput": "텍스트 입력",
+      "recording": "녹음 중...",
+      "recordingDone": "녹음 완료 - 전송을 눌러주세요",
+      "pressMic": "마이크를 누르고 대화를 시작해보세요",
+      "generating": "AI가 응답을 생성하고 있습니다...",
+      "notFound": "시나리오를 찾을 수 없습니다",
+      "back": "돌아가기",
+      "conversation": "AI와의 대화"
+    },
+    "status": {
+      "completed": "완료",
+      "in_progress": "진행중",
+      "pending": "대기"
+    },
+    "processing": {
+      "pending": "대기 중",
+      "stt_processing": "음성 인식 중",
+      "llm_processing": "AI 처리 중",
+      "tts_processing": "음성 생성 중",
+      "completed": "완료",
+      "error": "오류"
+    },
+    "categories": {
+      "등록": "등록",
+      "금융": "금융",
+      "의료": "의료",
+      "일반": "일반",
+      "통신": "통신",
+      "부동산": "부동산"
+    }
+  }
+}

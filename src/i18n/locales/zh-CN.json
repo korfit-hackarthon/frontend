@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "back": "返回",
+    "next": "下一步",
+    "complete": "完成",
+    "close": "关闭",
+    "or": "或"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "退出登录",
+    "loginWith": "使用{{provider}}登录",
+    "githubLogin": "使用GitHub登录",
+    "googleLogin": "使用Google登录",
+    "welcome": "欢迎",
+    "loginDescription": "使用社交账户简单登录",
+    "loginRequired": "需要登录",
+    "authenticatedUser": "已认证用户",
+    "loginProvider": "登录提供商",
+    "lastLogin": "最后登录",
+    "accountCreated": "账户创建",
+    "newUser": "新用户",
+    "loginError": "登录时发生错误。请重试。",
+    "processing": "登录处理中...",
+    "verifying": "认证确认中...",
+    "continueWithGoogle": "使用Google登录",
+    "termsText": "登录即表示同意服务条款"
+  },
+  "navigation": {
+    "dashboard": "仪表板",
+    "settings": "设置",
+    "profile": "个人资料",
+    "language": "语言",
+    "audioSessions": "语音对话",
+    "simulations": "模拟"
+  },
+  "settings": {
+    "languageSettings": "系统语言设置",
+    "selectLanguage": "请选择显示语言",
+    "languageNote": "语言更改立即生效",
+    "currentLanguage": "当前语言",
+    "searchLanguages": "搜索语言...",
+    "searchResults": "搜索结果",
+    "noLanguagesFound": "未找到语言",
+    "regions": {
+      "eastasia": "东亚",
+      "western": "西方语言",
+      "southeastasia": "东南亚",
+      "southasia": "南亚",
+      "middleeast": "中东",
+      "easterneurope": "东欧"
+    }
+  },
+  "profile": {
+    "setup": "个人资料设置",
+    "setupRequired": "需要设置个人资料",
+    "setupDescription": "请设置基本个人资料信息以使用服务",
+    "setupButton": "设置个人资料",
+    "editProfile": "编辑个人资料",
+    "profileInfo": "个人资料信息",
+    "profileInfoDescription": "可以查看和编辑账户的基本信息",
+    "name": "姓名",
+    "nativeLanguage": "母语",
+    "residenceStatus": "居留身份",
+    "firstEntryDate": "首次入境日期",
+    "familyComposition": "家庭成员",
+    "longTermGoal": "长期目标"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "userInfo": "用户信息",
+    "userId": "用户ID",
+    "unknownProvider": "未知",
+    "welcome": "欢迎！",
+    "welcomeDescription": "欢迎使用Kuuid服务",
+    "profileCompleteMessage": "个人资料设置完成，现在可以使用所有功能",
+    "stayDays": "在韩国的第{{days}}天",
+    "greeting": "{{name}}，您好！",
+    "todayMessage": "今天也和Kuuid一起加油！",
+    "recommendedMissions": "推荐任务",
+    "requiredMissions": "必需任务",
+    "recommendedSimulations": "推荐模拟",
+    "viewAll": "查看全部",
+    "viewDetails": "查看详情",
+    "start": "开始",
+    "startSimulation": "开始模拟",
+    "quickAccess": "快速访问",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2签证延期",
+        "description": "练习居留期限到期前的签证延期申请程序"
+      },
+      "partTimePermit": {
+        "title": "兼职工作许可申请",
+        "description": "为兼职工作申请就业许可"
+      },
+      "bankAccount": {
+        "title": "银行开户",
+        "description": "练习在韩国银行开设账户的过程"
+      },
+      "healthInsurance": {
+        "title": "国民健康保险加入",
+        "description": "为节省医疗费用的健康保险加入程序"
+      },
+      "phoneActivation": {
+        "title": "手机开通",
+        "description": "练习居留期限到期前的签证延期申请程序"
+      }
+    },
+    "status": {
+      "pending": "待处理",
+      "completed": "已完成",
+      "urgent": "紧急"
+    }
+  },
+  "upgrade": {
+    "toPro": "升级到专业版",
+    "upgradeButton": "升级"
+  },
+  "simulations": {
+    "header": "尝试各种模拟",
+    "start": "开始模拟",
+    "moreSimulations": "更多模拟正在准备中",
+    "moreSimulationsDescription": "手机开通、健康保险加入、房地产合同等模拟即将添加"
+  },
+  "success": {
+    "title": "任务成功！",
+    "subtitle": "恭喜！在实际情况下也能很好地解决",
+    "completed": "已完成",
+    "viewTips": "查看学习提示",
+    "retry": "重新挑战",
+    "home": "回到首页",
+    "moreSimulations": "也尝试其他模拟吧"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "模拟",
+      "uiMode": "UI模式",
+      "simulationMode": "模拟模式",
+      "chatMode": "聊天模式",
+      "audioInput": "语音输入",
+      "textInput": "文本输入",
+      "send": "发送",
+      "generating": "生成中...",
+      "recording": "录音中...",
+      "recordingDone": "录音完成",
+      "pressMic": "按下麦克风说话",
+      "notFound": "未找到场景",
+      "back": "返回",
+      "conversation": "与AI对话"
+    },
+    "status": {
+      "completed": "已完成",
+      "in_progress": "进行中",
+      "pending": "待处理"
+    },
+    "processing": {
+      "analyzing": "语音分析中...",
+      "transcribing": "转录中...",
+      "generating": "AI响应生成中...",
+      "synthesizing": "语音合成中...",
+      "complete": "处理完成"
+    }
+  }
+}

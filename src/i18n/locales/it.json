@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "success": "Successo",
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "save": "Salva",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "back": "Indietro",
+    "next": "Avanti",
+    "complete": "Completa",
+    "close": "Chiudi",
+    "or": "o"
+  },
+  "auth": {
+    "login": "Accedi",
+    "logout": "Esci",
+    "loginWith": "Accedi con {{provider}}",
+    "githubLogin": "Accedi con GitHub",
+    "googleLogin": "Accedi con Google",
+    "welcome": "Benvenuto",
+    "loginDescription": "Accedi facilmente con il tuo account social",
+    "loginRequired": "Accesso richiesto",
+    "authenticatedUser": "Utente autenticato",
+    "loginProvider": "Provider di accesso",
+    "lastLogin": "Ultimo accesso",
+    "accountCreated": "Account creato",
+    "newUser": "Nuovo utente",
+    "loginError": "Si è verificato un errore durante l'accesso. Riprova.",
+    "processing": "Elaborazione accesso...",
+    "verifying": "Verifica autenticazione...",
+    "continueWithGoogle": "Continua con Google",
+    "termsText": "Accedendo, accetti i termini di servizio"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "settings": "Impostazioni",
+    "profile": "Profilo",
+    "language": "Lingua",
+    "audioSessions": "Conversazioni vocali",
+    "simulations": "Simulazioni"
+  },
+  "settings": {
+    "languageSettings": "Impostazioni lingua di sistema",
+    "selectLanguage": "Seleziona la lingua di visualizzazione",
+    "languageNote": "Le modifiche alla lingua vengono applicate immediatamente",
+    "currentLanguage": "Lingua attuale",
+    "searchLanguages": "Cerca lingue...",
+    "searchResults": "Risultati di ricerca",
+    "noLanguagesFound": "Nessuna lingua trovata",
+    "regions": {
+      "eastasia": "Asia Orientale",
+      "western": "Lingue occidentali",
+      "southeastasia": "Sud-est asiatico",
+      "southasia": "Asia meridionale",
+      "middleeast": "Medio Oriente",
+      "easterneurope": "Europa orientale"
+    }
+  },
+  "profile": {
+    "setup": "Configurazione profilo",
+    "setupRequired": "Configurazione profilo richiesta",
+    "setupDescription": "Configura le informazioni base del profilo per utilizzare il servizio",
+    "setupButton": "Configura profilo",
+    "editProfile": "Modifica profilo",
+    "profileInfo": "Informazioni profilo",
+    "profileInfoDescription": "Puoi visualizzare e modificare le informazioni base del tuo account",
+    "name": "Nome",
+    "nativeLanguage": "Lingua madre",
+    "residenceStatus": "Stato di residenza",
+    "firstEntryDate": "Data primo ingresso",
+    "familyComposition": "Composizione familiare",
+    "longTermGoal": "Obiettivo a lungo termine"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "userInfo": "Informazioni utente",
+    "userId": "ID utente",
+    "unknownProvider": "Sconosciuto",
+    "welcome": "Benvenuto!",
+    "welcomeDescription": "Benvenuto nel servizio Kuuid",
+    "profileCompleteMessage": "La configurazione del profilo è completa e ora puoi utilizzare tutte le funzionalità",
+    "stayDays": "Giorno {{days}} in Corea",
+    "greeting": "Ciao, {{name}}!",
+    "todayMessage": "Continuiamo oggi con Kuuid!",
+    "recommendedMissions": "Missioni consigliate",
+    "requiredMissions": "Missioni necessarie",
+    "recommendedSimulations": "Simulazioni consigliate",
+    "viewAll": "Visualizza tutto",
+    "viewDetails": "Visualizza dettagli",
+    "start": "Inizia",
+    "startSimulation": "Inizia simulazione",
+    "quickAccess": "Accesso rapido",
+    "missions": {
+      "visaExtension": {
+        "title": "Estensione visto D-2",
+        "description": "Pratica la procedura di richiesta di estensione del visto prima della scadenza"
+      },
+      "partTimePermit": {
+        "title": "Richiesta permesso lavoro part-time",
+        "description": "Richiedi un permesso di lavoro per impiego part-time"
+      },
+      "bankAccount": {
+        "title": "Apertura conto bancario",
+        "description": "Pratica il processo di apertura di un conto presso banche coreane"
+      },
+      "healthInsurance": {
+        "title": "Iscrizione assicurazione sanitaria nazionale",
+        "description": "Procedura di iscrizione all'assicurazione sanitaria per risparmiare sui costi medici"
+      },
+      "phoneActivation": {
+        "title": "Attivazione telefono cellulare",
+        "description": "Pratica la procedura di richiesta di estensione del visto prima della scadenza"
+      }
+    },
+    "status": {
+      "pending": "In attesa",
+      "completed": "Completato",
+      "urgent": "Urgente"
+    }
+  },
+  "upgrade": {
+    "toPro": "Aggiorna a Pro",
+    "upgradeButton": "Aggiorna"
+  },
+  "simulations": {
+    "header": "Prova varie simulazioni",
+    "start": "Inizia simulazione",
+    "moreSimulations": "Più simulazioni in preparazione",
+    "moreSimulationsDescription": "Presto verranno aggiunte simulazioni per attivazione telefono, iscrizione assicurazione sanitaria, contratti immobiliari, ecc."
+  },
+  "success": {
+    "title": "Missione riuscita!",
+    "subtitle": "Congratulazioni! Puoi risolvere bene anche situazioni reali",
+    "completed": "Completato",
+    "viewTips": "Visualizza suggerimenti di apprendimento",
+    "retry": "Riprova",
+    "home": "Home",
+    "moreSimulations": "Prova anche altre simulazioni"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulazione",
+      "uiMode": "Modalità UI",
+      "simulationMode": "Modalità simulazione",
+      "chatMode": "Modalità chat",
+      "audioInput": "Input audio",
+      "textInput": "Input testo",
+      "send": "Invia",
+      "generating": "Generazione...",
+      "recording": "Registrazione...",
+      "recordingDone": "Registrazione completata",
+      "pressMic": "Premi il microfono per parlare",
+      "notFound": "Scenario non trovato",
+      "back": "Indietro",
+      "conversation": "Conversazione con IA"
+    },
+    "status": {
+      "completed": "Completato",
+      "in_progress": "In corso",
+      "pending": "In attesa"
+    },
+    "processing": {
+      "analyzing": "Analisi audio...",
+      "transcribing": "Trascrizione...",
+      "generating": "Generazione risposta IA...",
+      "synthesizing": "Sintesi vocale...",
+      "complete": "Elaborazione completata"
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "success": "सफल",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "save": "सेव करें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "back": "वापस",
+    "next": "अगला",
+    "complete": "पूर्ण",
+    "close": "बंद करें",
+    "or": "या"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "loginWith": "{{provider}} के साथ लॉगिन करें",
+    "githubLogin": "GitHub के साथ लॉगिन करें",
+    "googleLogin": "Google के साथ लॉगिन करें",
+    "welcome": "स्वागत है",
+    "loginDescription": "अपने सोशल अकाउंट से आसानी से लॉगिन करें",
+    "loginRequired": "लॉगिन आवश्यक है",
+    "authenticatedUser": "प्रमाणित उपयोगकर्ता",
+    "loginProvider": "लॉगिन प्रदाता",
+    "lastLogin": "अंतिम लॉगिन",
+    "accountCreated": "खाता बनाया गया",
+    "newUser": "नया उपयोगकर्ता",
+    "loginError": "लॉगिन के दौरान त्रुटि हुई। कृपया फिर से कोशिश करें।",
+    "processing": "लॉगिन प्रक्रिया...",
+    "verifying": "प्रमाणीकरण सत्यापन...",
+    "continueWithGoogle": "Google के साथ जारी रखें",
+    "termsText": "लॉगिन करके, आप सेवा की शर्तों से सहमत हैं"
+  },
+  "navigation": {
+    "dashboard": "डैशबोर्ड",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफ़ाइल",
+    "language": "भाषा",
+    "audioSessions": "ऑडियो वार्तालाप",
+    "simulations": "सिमुलेशन"
+  },
+  "settings": {
+    "languageSettings": "सिस्टम भाषा सेटिंग्स",
+    "selectLanguage": "डिस्प्ले भाषा चुनें",
+    "languageNote": "भाषा परिवर्तन तुरंत लागू होते हैं",
+    "currentLanguage": "वर्तमान भाषा",
+    "searchLanguages": "भाषाएं खोजें...",
+    "searchResults": "खोज परिणाम",
+    "noLanguagesFound": "कोई भाषा नहीं मिली",
+    "regions": {
+      "eastasia": "पूर्वी एशिया",
+      "western": "पश्चिमी भाषाएं",
+      "southeastasia": "दक्षिण पूर्व एशिया",
+      "southasia": "दक्षिण एशिया",
+      "middleeast": "मध्य पूर्व",
+      "easterneurope": "पूर्वी यूरोप"
+    }
+  },
+  "profile": {
+    "setup": "प्रोफ़ाइल सेटअप",
+    "setupRequired": "प्रोफ़ाइल सेटअप आवश्यक है",
+    "setupDescription": "सेवा का उपयोग करने के लिए बुनियादी प्रोफ़ाइल जानकारी सेट करें",
+    "setupButton": "प्रोफ़ाइल सेट करें",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "profileInfo": "प्रोफ़ाइल जानकारी",
+    "profileInfoDescription": "आप अपने खाते की बुनियादी जानकारी देख और संपादित कर सकते हैं",
+    "name": "नाम",
+    "nativeLanguage": "मातृभाषा",
+    "residenceStatus": "निवास स्थिति",
+    "firstEntryDate": "पहली प्रविष्टि तिथि",
+    "familyComposition": "पारिवारिक संरचना",
+    "longTermGoal": "दीर्घकालिक लक्ष्य"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "userInfo": "उपयोगकर्ता जानकारी",
+    "userId": "उपयोगकर्ता ID",
+    "unknownProvider": "अज्ञात",
+    "welcome": "स्वागत है!",
+    "welcomeDescription": "Kuuid सेवा में आपका स्वागत है",
+    "profileCompleteMessage": "प्रोफ़ाइल सेटअप पूर्ण है और अब आप सभी सुविधाओं का उपयोग कर सकते हैं",
+    "stayDays": "कोरिया में दिन {{days}}",
+    "greeting": "नमस्ते, {{name}}!",
+    "todayMessage": "आज भी Kuuid के साथ आगे बढ़ते रहें!",
+    "recommendedMissions": "अनुशंसित मिशन",
+    "requiredMissions": "आवश्यक मिशन",
+    "recommendedSimulations": "अनुशंसित सिमुलेशन",
+    "viewAll": "सभी देखें",
+    "viewDetails": "विवरण देखें",
+    "start": "शुरू करें",
+    "startSimulation": "सिमुलेशन शुरू करें",
+    "quickAccess": "त्वरित पहुंच",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2 वीज़ा विस्तार",
+        "description": "समाप्ति से पहले वीज़ा विस्तार आवेदन प्रक्रिया का अभ्यास करें"
+      },
+      "partTimePermit": {
+        "title": "अंशकालिक कार्य अनुमति आवेदन",
+        "description": "अंशकालिक रोजगार के लिए कार्य अनुमति के लिए आवेदन करें"
+      },
+      "bankAccount": {
+        "title": "बैंक खाता खोलना",
+        "description": "कोरियाई बैंकों में खाता खोलने की प्रक्रिया का अभ्यास करें"
+      },
+      "healthInsurance": {
+        "title": "राष्ट्रीय स्वास्थ्य बीमा पंजीकरण",
+        "description": "चिकित्सा लागत बचाने के लिए स्वास्थ्य बीमा पंजीकरण प्रक्रिया"
+      },
+      "phoneActivation": {
+        "title": "मोबाइल फोन सक्रियण",
+        "description": "समाप्ति से पहले वीज़ा विस्तार आवेदन प्रक्रिया का अभ्यास करें"
+      }
+    },
+    "status": {
+      "pending": "प्रतीक्षारत",
+      "completed": "पूर्ण",
+      "urgent": "तत्काल"
+    }
+  },
+  "upgrade": {
+    "toPro": "प्रो में अपग्रेड करें",
+    "upgradeButton": "अपग्रेड करें"
+  },
+  "simulations": {
+    "header": "विभिन्न सिमुलेशन आजमाएं",
+    "start": "सिमुलेशन शुरू करें",
+    "moreSimulations": "अधिक सिमुलेशन तैयार हो रहे हैं",
+    "moreSimulationsDescription": "फोन सक्रियण, स्वास्थ्य बीमा पंजीकरण, रियल एस्टेट अनुबंध आदि के सिमुलेशन जल्द ही जोड़े जाएंगे"
+  },
+  "success": {
+    "title": "मिशन सफल!",
+    "subtitle": "बधाई हो! आप वास्तविक स्थितियों को भी अच्छी तरह हल कर सकते हैं",
+    "completed": "पूर्ण",
+    "viewTips": "सीखने की युक्तियां देखें",
+    "retry": "पुनः प्रयास करें",
+    "home": "होम",
+    "moreSimulations": "अन्य सिमुलेशन भी आज़माएं"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "सिमुलेशन",
+      "uiMode": "UI मोड",
+      "simulationMode": "सिमुलेशन मोड",
+      "chatMode": "चैट मोड",
+      "audioInput": "ऑडियो इनपुट",
+      "textInput": "टेक्स्ट इनपुट",
+      "send": "भेजें",
+      "generating": "जेनरेट हो रहा है...",
+      "recording": "रिकॉर्ड हो रहा है...",
+      "recordingDone": "रिकॉर्डिंग पूर्ण",
+      "pressMic": "बात करने के लिए माइक दबाएं",
+      "notFound": "परिदृश्य नहीं मिला",
+      "back": "वापस",
+      "conversation": "AI के साथ बातचीत"
+    },
+    "status": {
+      "completed": "पूर्ण",
+      "in_progress": "प्रगति में",
+      "pending": "प्रतीक्षारत"
+    },
+    "processing": {
+      "analyzing": "ऑडियो विश्लेषण...",
+      "transcribing": "ट्रांसक्रिप्शन...",
+      "generating": "AI प्रतिक्रिया जेनरेट हो रही है...",
+      "synthesizing": "ध्वनि संश्लेषण...",
+      "complete": "प्रसंस्करण पूर्ण"
+    }
+  }
+}

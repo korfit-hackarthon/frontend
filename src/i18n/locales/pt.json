@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "back": "Voltar",
+    "next": "Próximo",
+    "complete": "Completar",
+    "close": "Fechar",
+    "or": "ou"
+  },
+  "auth": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "loginWith": "Entrar com {{provider}}",
+    "githubLogin": "Entrar com GitHub",
+    "googleLogin": "Entrar com Google",
+    "welcome": "Bem-vindo",
+    "loginDescription": "Entre facilmente com sua conta social",
+    "loginRequired": "Login necessário",
+    "authenticatedUser": "Usuário autenticado",
+    "loginProvider": "Provedor de login",
+    "lastLogin": "Último login",
+    "accountCreated": "Conta criada",
+    "newUser": "Novo usuário",
+    "loginError": "Ocorreu um erro durante o login. Tente novamente.",
+    "processing": "Processando login...",
+    "verifying": "Verificando autenticação...",
+    "continueWithGoogle": "Continuar com Google",
+    "termsText": "Ao entrar, você concorda com os termos de serviço"
+  },
+  "navigation": {
+    "dashboard": "Painel",
+    "settings": "Configurações",
+    "profile": "Perfil",
+    "language": "Idioma",
+    "audioSessions": "Conversas por voz",
+    "simulations": "Simulações"
+  },
+  "settings": {
+    "languageSettings": "Configurações de idioma do sistema",
+    "selectLanguage": "Selecione o idioma de exibição",
+    "languageNote": "As mudanças de idioma são aplicadas imediatamente",
+    "currentLanguage": "Idioma atual",
+    "searchLanguages": "Pesquisar idiomas...",
+    "searchResults": "Resultados da pesquisa",
+    "noLanguagesFound": "Nenhum idioma encontrado",
+    "regions": {
+      "eastasia": "Ásia Oriental",
+      "western": "Idiomas ocidentais",
+      "southeastasia": "Sudeste Asiático",
+      "southasia": "Ásia do Sul",
+      "middleeast": "Oriente Médio",
+      "easterneurope": "Europa Oriental"
+    }
+  },
+  "profile": {
+    "setup": "Configuração de perfil",
+    "setupRequired": "Configuração de perfil necessária",
+    "setupDescription": "Configure suas informações básicas de perfil para usar o serviço",
+    "setupButton": "Configurar perfil",
+    "editProfile": "Editar perfil",
+    "profileInfo": "Informações do perfil",
+    "profileInfoDescription": "Você pode visualizar e editar as informações básicas da sua conta",
+    "name": "Nome",
+    "nativeLanguage": "Idioma nativo",
+    "residenceStatus": "Status de residência",
+    "firstEntryDate": "Data da primeira entrada",
+    "familyComposition": "Composição familiar",
+    "longTermGoal": "Objetivo de longo prazo"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "userInfo": "Informações do usuário",
+    "userId": "ID do usuário",
+    "unknownProvider": "Desconhecido",
+    "welcome": "Bem-vindo!",
+    "welcomeDescription": "Bem-vindo ao serviço Kuuid",
+    "profileCompleteMessage": "A configuração do perfil está completa e agora você pode usar todas as funcionalidades",
+    "stayDays": "Dia {{days}} na Coreia",
+    "greeting": "Olá, {{name}}!",
+    "todayMessage": "Vamos continuar hoje também com Kuuid!",
+    "recommendedMissions": "Missões recomendadas",
+    "requiredMissions": "Missões necessárias",
+    "recommendedSimulations": "Simulações recomendadas",
+    "viewAll": "Ver tudo",
+    "viewDetails": "Ver detalhes",
+    "start": "Começar",
+    "startSimulation": "Iniciar simulação",
+    "quickAccess": "Acesso rápido",
+    "missions": {
+      "visaExtension": {
+        "title": "Extensão de visto D-2",
+        "description": "Pratique o procedimento de solicitação de extensão de visto antes do vencimento"
+      },
+      "partTimePermit": {
+        "title": "Solicitação de permissão de trabalho meio período",
+        "description": "Solicite permissão de trabalho para emprego meio período"
+      },
+      "bankAccount": {
+        "title": "Abertura de conta bancária",
+        "description": "Pratique o processo de abertura de conta em bancos coreanos"
+      },
+      "healthInsurance": {
+        "title": "Inscrição no seguro de saúde nacional",
+        "description": "Procedimento de inscrição no seguro de saúde para economizar custos médicos"
+      },
+      "phoneActivation": {
+        "title": "Ativação de celular",
+        "description": "Pratique o procedimento de solicitação de extensão de visto antes do vencimento"
+      }
+    },
+    "status": {
+      "pending": "Pendente",
+      "completed": "Concluído",
+      "urgent": "Urgente"
+    }
+  },
+  "upgrade": {
+    "toPro": "Atualizar para Pro",
+    "upgradeButton": "Atualizar"
+  },
+  "simulations": {
+    "header": "Experimente várias simulações",
+    "start": "Iniciar simulação",
+    "moreSimulations": "Mais simulações em preparação",
+    "moreSimulationsDescription": "Em breve serão adicionadas simulações de ativação de celular, inscrição no seguro de saúde, contratos imobiliários, etc."
+  },
+  "success": {
+    "title": "Missão bem-sucedida!",
+    "subtitle": "Parabéns! Você também pode resolver bem situações reais",
+    "completed": "Concluído",
+    "viewTips": "Ver dicas de aprendizado",
+    "retry": "Tentar novamente",
+    "home": "Início",
+    "moreSimulations": "Experimente também outras simulações"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulação",
+      "uiMode": "Modo UI",
+      "simulationMode": "Modo simulação",
+      "chatMode": "Modo chat",
+      "audioInput": "Entrada de áudio",
+      "textInput": "Entrada de texto",
+      "send": "Enviar",
+      "generating": "Gerando...",
+      "recording": "Gravando...",
+      "recordingDone": "Gravação concluída",
+      "pressMic": "Pressione o microfone para falar",
+      "notFound": "Cenário não encontrado",
+      "back": "Voltar",
+      "conversation": "Conversa com IA"
+    },
+    "status": {
+      "completed": "Concluído",
+      "in_progress": "Em andamento",
+      "pending": "Pendente"
+    },
+    "processing": {
+      "analyzing": "Analisando áudio...",
+      "transcribing": "Transcrevendo...",
+      "generating": "Gerando resposta da IA...",
+      "synthesizing": "Sintetizando voz...",
+      "complete": "Processamento concluído"
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "complete": "Complete",
+    "close": "Close",
+    "or": "or"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "loginWith": "Login with {{provider}}",
+    "githubLogin": "Login with GitHub",
+    "googleLogin": "Login with Google",
+    "welcome": "Welcome",
+    "loginDescription": "Login easily with your social account",
+    "loginRequired": "Login required",
+    "authenticatedUser": "Authenticated user",
+    "loginProvider": "Login provider",
+    "lastLogin": "Last login",
+    "accountCreated": "Account created",
+    "newUser": "New user",
+    "loginError": "An error occurred during login. Please try again.",
+    "processing": "Processing login...",
+    "verifying": "Verifying authentication...",
+    "continueWithGoogle": "Continue with Google",
+    "termsText": "By logging in, you agree to our Terms of Service"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "language": "Language",
+    "audioSessions": "Voice Chat",
+    "simulations": "Simulations"
+  },
+  "settings": {
+    "languageSettings": "System Language Settings",
+    "selectLanguage": "Select display language",
+    "languageNote": "Language changes are applied immediately",
+    "currentLanguage": "Current Language",
+    "searchLanguages": "Search languages...",
+    "searchResults": "Search Results",
+    "noLanguagesFound": "No languages found",
+    "regions": {
+      "eastasia": "East Asia",
+      "western": "Western Languages",
+      "southeastasia": "Southeast Asia",
+      "southasia": "South Asia",
+      "middleeast": "Middle East",
+      "easterneurope": "Eastern Europe"
+    }
+  },
+  "profile": {
+    "setup": "Profile Setup",
+    "setupRequired": "Profile setup required",
+    "setupDescription": "Please set up your basic profile information to use the service",
+    "setupButton": "Set up profile",
+    "editProfile": "Edit profile",
+    "profileInfo": "Profile Information",
+    "profileInfoDescription": "Your registered basic information",
+    "step": "Step",
+    "stepProgress": "Step {{current}} of {{total}}",
+    "name": "Name",
+    "nativeLanguage": "Native Language",
+    "residenceStatus": "Residence Status",
+    "firstEntryDate": "First Entry Date",
+    "familyComposition": "Family Composition",
+    "longTermGoal": "Long-term Goal",
+    "selectNativeLanguage": "Please select your native language",
+    "enterName": "Please enter your name",
+    "selectResidenceStatus": "Please select your current residence status",
+    "enterFirstEntryDate": "Please enter your first entry date to Korea",
+    "selectFamilyComposition": "Please select your family composition",
+    "selectLongTermGoal": "Please select your long-term goal in Korea",
+    "nativeLanguageDescription": "Kuuid will provide you with customized services.",
+    "nameDescription": "Enter the name to be used in the service",
+    "residenceStatusDescription": "Select your current residence status",
+    "firstEntryDateDescription": "Enter the date you first entered Korea",
+    "selectDate": "Please select a date",
+    "familyCompositionDescription": "Kuuid will provide you with customized services.",
+    "longTermGoalDescription": "Kuuid will provide you with customized services.",
+    "namePlaceholder": "e.g., Park Sunghee, Sara",
+    "setupError": "An error occurred while setting up your profile. Please try again.",
+    "setting": "Setting up...",
+    "familyOptions": {
+      "alone": "Living alone",
+      "withSpouse": "Living with spouse",
+      "withChildren": "Family with children",
+      "other": "Other family arrangement"
+    },
+    "goalOptions": {
+      "academic": "Academic completion",
+      "employment": "Employment/Immigration",
+      "business": "Employment/Business",
+      "cultural": "Cultural experience",
+      "language": "Language acquisition"
+    }
+  },
+  "languages": {
+    "korean": "한국어",
+    "english": "English",
+    "changeLanguage": "Change Language"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "userInfo": "User Information",
+    "userId": "User ID",
+    "unknownProvider": "Unknown",
+    "welcome": "Welcome!",
+    "welcomeDescription": "Welcome to Kuuid service.",
+    "profileCompleteMessage": "Your profile setup is complete and you can now use all features.",
+    "stayDays": "{{days}} days in Korea",
+    "greeting": "Hello, {{name}}!",
+    "todayMessage": "Let's navigate Korea together with Kuuid today!",
+    "recommendedMissions": "Recommended Missions",
+    "requiredMissions": "Essential Missions",
+    "recommendedSimulations": "Featured Simulations",
+    "viewAll": "View All",
+    "viewDetails": "View Details",
+    "start": "Start",
+    "startSimulation": "Start Simulation",
+    "quickAccess": "Quick Access",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2 Visa Extension",
+        "description": "Practice visa extension procedures before expiration"
+      },
+      "partTimePermit": {
+        "title": "Part-time Work Permit",
+        "description": "Apply for work permit for part-time employment"
+      },
+      "bankAccount": {
+        "title": "Bank Account Opening",
+        "description": "Practice opening an account at Korean banks"
+      },
+      "healthInsurance": {
+        "title": "National Health Insurance",
+        "description": "Health insurance enrollment for medical cost savings"
+      },
+      "phoneActivation": {
+        "title": "Mobile Phone Activation",
+        "description": "Practice visa extension procedures before expiration"
+      }
+    },
+    "status": {
+      "pending": "Pending",
+      "completed": "Completed",
+      "urgent": "Urgent"
+    }
+  },
+  "upgrade": {
+    "toPro": "Upgrade to Pro",
+    "upgradeButton": "Upgrade"
+  },
+  "simulations": {
+    "header": "Try various simulations",
+    "start": "Start Simulation",
+    "moreSimulations": "More simulations are coming soon",
+    "moreSimulationsDescription": "More simulations such as phone activation, health insurance enrollment, real estate contract, etc. will be added soon"
+  },
+  "success": {
+    "title": "Mission Success!",
+    "subtitle": "Congratulations! You can handle real situations well too",
+    "completed": "Completed",
+    "viewTips": "Check Learning Tips",
+    "retry": "Try Again",
+    "home": "Home",
+    "moreSimulations": "Try other simulations too"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulation",
+      "uiMode": "UI Mode",
+      "simulationMode": "Simulation Mode",
+      "chatMode": "Chat Mode",
+      "currentProgress": "Current progress: Step {{step}}",
+      "currentStatus": "Current Status",
+      "playAudio": "Play Audio",
+      "playing": "Playing...",
+      "inputPlaceholder": "Type a message...",
+      "send": "Send",
+      "audioInput": "Audio Input",
+      "textInput": "Text Input",
+      "recording": "Recording...",
+      "recordingDone": "Recorded - click Send",
+      "pressMic": "Press the mic to start talking",
+      "generating": "AI is generating a response...",
+      "notFound": "Scenario not found",
+      "back": "Go back",
+      "conversation": "Conversation with AI"
+    },
+    "status": {
+      "completed": "Completed",
+      "in_progress": "In progress",
+      "pending": "Pending"
+    },
+    "processing": {
+      "pending": "Pending",
+      "stt_processing": "Recognizing speech",
+      "llm_processing": "Processing with AI",
+      "tts_processing": "Generating audio",
+      "completed": "Completed",
+      "error": "Error"
+    },
+    "categories": {
+      "등록": "Registration",
+      "금융": "Finance",
+      "의료": "Healthcare",
+      "일반": "General",
+      "통신": "Telecom",
+      "부동산": "Real Estate"
+    }
+  }
+}

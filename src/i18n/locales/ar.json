@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "نجح",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "edit": "تحرير",
+    "delete": "حذف",
+    "back": "رجوع",
+    "next": "التالي",
+    "complete": "إكمال",
+    "close": "إغلاق",
+    "or": "أو"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "loginWith": "تسجيل الدخول باستخدام {{provider}}",
+    "githubLogin": "تسجيل الدخول باستخدام GitHub",
+    "googleLogin": "تسجيل الدخول باستخدام Google",
+    "welcome": "مرحباً",
+    "loginDescription": "سجل الدخول بسهولة باستخدام حسابك الاجتماعي",
+    "loginRequired": "تسجيل الدخول مطلوب",
+    "authenticatedUser": "مستخدم مصادق عليه",
+    "loginProvider": "مزود تسجيل الدخول",
+    "lastLogin": "آخر تسجيل دخول",
+    "accountCreated": "تم إنشاء الحساب",
+    "newUser": "مستخدم جديد",
+    "loginError": "حدث خطأ أثناء تسجيل الدخول. يرجى المحاولة مرة أخرى.",
+    "processing": "جاري معالجة تسجيل الدخول...",
+    "verifying": "جاري التحقق من المصادقة...",
+    "continueWithGoogle": "المتابعة مع Google",
+    "termsText": "بتسجيل الدخول، فإنك توافق على شروط الخدمة"
+  },
+  "navigation": {
+    "dashboard": "لوحة التحكم",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "language": "اللغة",
+    "audioSessions": "محادثات صوتية",
+    "simulations": "محاكاة"
+  },
+  "settings": {
+    "languageSettings": "إعدادات لغة النظام",
+    "selectLanguage": "اختر لغة العرض",
+    "languageNote": "يتم تطبيق تغييرات اللغة فوراً",
+    "currentLanguage": "اللغة الحالية",
+    "searchLanguages": "البحث في اللغات...",
+    "searchResults": "نتائج البحث",
+    "noLanguagesFound": "لم يتم العثور على لغات",
+    "regions": {
+      "eastasia": "شرق آسيا",
+      "western": "اللغات الغربية",
+      "southeastasia": "جنوب شرق آسيا",
+      "southasia": "جنوب آسيا",
+      "middleeast": "الشرق الأوسط",
+      "easterneurope": "أوروبا الشرقية"
+    }
+  },
+  "profile": {
+    "setup": "إعداد الملف الشخصي",
+    "setupRequired": "إعداد الملف الشخصي مطلوب",
+    "setupDescription": "قم بإعداد معلومات الملف الشخصي الأساسية لاستخدام الخدمة",
+    "setupButton": "إعداد الملف الشخصي",
+    "editProfile": "تحرير الملف الشخصي",
+    "profileInfo": "معلومات الملف الشخصي",
+    "profileInfoDescription": "يمكنك عرض وتحرير المعلومات الأساسية لحسابك",
+    "name": "الاسم",
+    "nativeLanguage": "اللغة الأم",
+    "residenceStatus": "حالة الإقامة",
+    "firstEntryDate": "تاريخ الدخول الأول",
+    "familyComposition": "تكوين الأسرة",
+    "longTermGoal": "الهدف طويل المدى"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "userInfo": "معلومات المستخدم",
+    "userId": "معرف المستخدم",
+    "unknownProvider": "غير معروف",
+    "welcome": "مرحباً!",
+    "welcomeDescription": "مرحباً بك في خدمة Kuuid",
+    "profileCompleteMessage": "اكتمل إعداد الملف الشخصي ويمكنك الآن استخدام جميع الميزات",
+    "stayDays": "اليوم {{days}} في كوريا",
+    "greeting": "مرحباً، {{name}}!",
+    "todayMessage": "دعونا نمضي قدماً مع Kuuid اليوم أيضاً!",
+    "recommendedMissions": "المهام الموصى بها",
+    "requiredMissions": "المهام المطلوبة",
+    "recommendedSimulations": "المحاكاة الموصى بها",
+    "viewAll": "عرض الكل",
+    "viewDetails": "عرض التفاصيل",
+    "start": "ابدأ",
+    "startSimulation": "بدء المحاكاة",
+    "quickAccess": "وصول سريع",
+    "missions": {
+      "visaExtension": {
+        "title": "تمديد فيزا D-2",
+        "description": "تدرب على إجراءات طلب تمديد الفيزا قبل انتهاء الصلاحية"
+      },
+      "partTimePermit": {
+        "title": "طلب تصريح عمل بدوام جزئي",
+        "description": "تقدم بطلب للحصول على تصريح عمل للعمل بدوام جزئي"
+      },
+      "bankAccount": {
+        "title": "فتح حساب مصرفي",
+        "description": "تدرب على عملية فتح حساب في البنوك الكورية"
+      },
+      "healthInsurance": {
+        "title": "التسجيل في التأمين الصحي الوطني",
+        "description": "إجراءات التسجيل في التأمين الصحي لتوفير التكاليف الطبية"
+      },
+      "phoneActivation": {
+        "title": "تفعيل الهاتف المحمول",
+        "description": "تدرب على إجراءات طلب تمديد الفيزا قبل انتهاء الصلاحية"
+      }
+    },
+    "status": {
+      "pending": "في الانتظار",
+      "completed": "مكتمل",
+      "urgent": "عاجل"
+    }
+  },
+  "upgrade": {
+    "toPro": "الترقية إلى برو",
+    "upgradeButton": "ترقية"
+  },
+  "simulations": {
+    "header": "جرب محاكاة متنوعة",
+    "start": "بدء المحاكاة",
+    "moreSimulations": "المزيد من المحاكاة قيد التحضير",
+    "moreSimulationsDescription": "ستتم إضافة محاكاة تفعيل الهاتف، التسجيل في التأمين الصحي، عقود العقارات، إلخ قريباً"
+  },
+  "success": {
+    "title": "نجحت المهمة!",
+    "subtitle": "تهانينا! يمكنك أيضاً حل المواقف الحقيقية بشكل جيد",
+    "completed": "مكتمل",
+    "viewTips": "عرض نصائح التعلم",
+    "retry": "إعادة المحاولة",
+    "home": "الصفحة الرئيسية",
+    "moreSimulations": "جرب محاكاة أخرى أيضاً"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "محاكاة",
+      "uiMode": "وضع واجهة المستخدم",
+      "simulationMode": "وضع المحاكاة",
+      "chatMode": "وضع الدردشة",
+      "audioInput": "إدخال صوتي",
+      "textInput": "إدخال نصي",
+      "send": "إرسال",
+      "generating": "جاري التوليد...",
+      "recording": "جاري التسجيل...",
+      "recordingDone": "التسجيل مكتمل",
+      "pressMic": "اضغط على الميكروفون للتحدث",
+      "notFound": "السيناريو غير موجود",
+      "back": "رجوع",
+      "conversation": "محادثة مع الذكاء الاصطناعي"
+    },
+    "status": {
+      "completed": "مكتمل",
+      "in_progress": "قيد التنفيذ",
+      "pending": "في الانتظار"
+    },
+    "processing": {
+      "analyzing": "تحليل الصوت...",
+      "transcribing": "جاري النسخ...",
+      "generating": "توليد استجابة الذكاء الاصطناعي...",
+      "synthesizing": "تركيب الصوت...",
+      "complete": "المعالجة مكتملة"
+    }
+  }
+}

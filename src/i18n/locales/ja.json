@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "success": "成功しました",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "save": "保存",
+    "edit": "編集",
+    "delete": "削除",
+    "back": "戻る",
+    "next": "次へ",
+    "complete": "完了",
+    "close": "閉じる",
+    "or": "または"
+  },
+  "auth": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "loginWith": "{{provider}}でログイン",
+    "githubLogin": "GitHubでログイン",
+    "googleLogin": "Googleでログイン",
+    "welcome": "ようこそ",
+    "loginDescription": "ソーシャルアカウントで簡単にログイン",
+    "loginRequired": "ログインが必要です",
+    "authenticatedUser": "認証済みユーザー",
+    "loginProvider": "ログインプロバイダー",
+    "lastLogin": "最終ログイン",
+    "accountCreated": "アカウント作成",
+    "newUser": "新規ユーザー",
+    "loginError": "ログイン中にエラーが発生しました。再試行してください。",
+    "processing": "ログイン処理中...",
+    "verifying": "認証確認中...",
+    "continueWithGoogle": "Googleでログイン",
+    "termsText": "ログインすることで利用規約に同意したことになります"
+  },
+  "navigation": {
+    "dashboard": "ダッシュボード",
+    "settings": "設定",
+    "profile": "プロフィール",
+    "language": "言語",
+    "audioSessions": "音声会話",
+    "simulations": "シミュレーション"
+  },
+  "settings": {
+    "languageSettings": "システム言語設定",
+    "selectLanguage": "表示言語を選択してください",
+    "languageNote": "言語変更は即座に適用されます",
+    "currentLanguage": "現在の言語",
+    "searchLanguages": "言語を検索...",
+    "searchResults": "検索結果",
+    "noLanguagesFound": "言語が見つかりません",
+    "regions": {
+      "eastasia": "東アジア",
+      "western": "西洋言語",
+      "southeastasia": "東南アジア",
+      "southasia": "南アジア",
+      "middleeast": "中東",
+      "easterneurope": "東欧"
+    }
+  },
+  "profile": {
+    "setup": "プロフィール設定",
+    "setupRequired": "プロフィール設定が必要です",
+    "setupDescription": "サービス利用のため基本プロフィール情報を設定してください",
+    "setupButton": "プロフィール設定",
+    "editProfile": "プロフィール編集",
+    "profileInfo": "プロフィール情報",
+    "profileInfoDescription": "アカウントの基本情報を確認・編集できます",
+    "name": "名前",
+    "nativeLanguage": "母国語",
+    "residenceStatus": "滞在資格",
+    "firstEntryDate": "初回入国日",
+    "familyComposition": "家族構成",
+    "longTermGoal": "長期目標"
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "userInfo": "ユーザー情報",
+    "userId": "ユーザーID",
+    "unknownProvider": "不明",
+    "welcome": "ようこそ！",
+    "welcomeDescription": "Kuuidサービスへようこそ",
+    "profileCompleteMessage": "プロフィール設定が完了し、すべての機能をご利用いただけます",
+    "stayDays": "韓国滞在{{days}}日目",
+    "greeting": "{{name}}さん、こんにちは！",
+    "todayMessage": "今日もKuuidと一緒に頑張りましょう！",
+    "recommendedMissions": "おすすめミッション",
+    "requiredMissions": "必須ミッション",
+    "recommendedSimulations": "おすすめシミュレーション",
+    "viewAll": "すべて表示",
+    "viewDetails": "詳細を見る",
+    "start": "開始",
+    "startSimulation": "シミュレーション開始",
+    "quickAccess": "クイックアクセス",
+    "missions": {
+      "visaExtension": {
+        "title": "D-2ビザ延長",
+        "description": "滞在期間満了前のビザ延長申請手続きを練習しましょう"
+      },
+      "partTimePermit": {
+        "title": "時間制就業許可申請",
+        "description": "アルバイトのための就業許可申請をしましょう"
+      },
+      "bankAccount": {
+        "title": "銀行口座開設",
+        "description": "韓国の銀行で口座を開設する過程を練習しましょう"
+      },
+      "healthInsurance": {
+        "title": "国民健康保険加入",
+        "description": "医療費節約のための健康保険加入手続きです"
+      },
+      "phoneActivation": {
+        "title": "携帯電話開通",
+        "description": "滞在期間満了前のビザ延長申請手続きを練習しましょう"
+      }
+    },
+    "status": {
+      "pending": "待機中",
+      "completed": "完了",
+      "urgent": "緊急"
+    }
+  },
+  "upgrade": {
+    "toPro": "プロアップグレード",
+    "upgradeButton": "アップグレード"
+  },
+  "simulations": {
+    "header": "様々なシミュレーションを試してみてください",
+    "start": "シミュレーション開始",
+    "moreSimulations": "より多くのシミュレーションが準備中です",
+    "moreSimulationsDescription": "携帯電話開通、健康保険加入、不動産契約などのシミュレーションが近日追加予定です"
+  },
+  "success": {
+    "title": "ミッション成功！",
+    "subtitle": "おめでとうございます！実際の状況でもうまく解決できます",
+    "completed": "完了",
+    "viewTips": "学習ティップも確認",
+    "retry": "再挑戦",
+    "home": "ホームへ",
+    "moreSimulations": "他のシミュレーションにも挑戦してみてください"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "シミュレーション",
+      "uiMode": "UIモード",
+      "simulationMode": "シミュレーションモード",
+      "chatMode": "チャットモード",
+      "audioInput": "音声入力",
+      "textInput": "テキスト入力",
+      "send": "送信",
+      "generating": "生成中...",
+      "recording": "録音中...",
+      "recordingDone": "録音完了",
+      "pressMic": "マイクを押して話してください",
+      "notFound": "シナリオが見つかりません",
+      "back": "戻る",
+      "conversation": "AIとの会話"
+    },
+    "status": {
+      "completed": "完了",
+      "in_progress": "進行中",
+      "pending": "待機中"
+    },
+    "processing": {
+      "analyzing": "音声分析中...",
+      "transcribing": "文字起こし中...",
+      "generating": "AI応答生成中...",
+      "synthesizing": "音声合成中...",
+      "complete": "処理完了"
+    }
+  }
+}

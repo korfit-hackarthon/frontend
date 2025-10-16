@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "back": "Retour",
+    "next": "Suivant",
+    "complete": "Terminer",
+    "close": "Fermer",
+    "or": "ou"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "loginWith": "Se connecter avec {{provider}}",
+    "githubLogin": "Se connecter avec GitHub",
+    "googleLogin": "Se connecter avec Google",
+    "welcome": "Bienvenue",
+    "loginDescription": "Connectez-vous facilement avec votre compte social",
+    "loginRequired": "Connexion requise",
+    "authenticatedUser": "Utilisateur authentifié",
+    "loginProvider": "Fournisseur de connexion",
+    "lastLogin": "Dernière connexion",
+    "accountCreated": "Compte créé",
+    "newUser": "Nouvel utilisateur",
+    "loginError": "Une erreur s'est produite lors de la connexion. Veuillez réessayer.",
+    "processing": "Traitement de la connexion...",
+    "verifying": "Vérification de l'authentification...",
+    "continueWithGoogle": "Continuer avec Google",
+    "termsText": "En vous connectant, vous acceptez les conditions de service"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "language": "Langue",
+    "audioSessions": "Conversations vocales",
+    "simulations": "Simulations"
+  },
+  "settings": {
+    "languageSettings": "Paramètres de langue du système",
+    "selectLanguage": "Sélectionnez la langue d'affichage",
+    "languageNote": "Les changements de langue sont appliqués immédiatement",
+    "currentLanguage": "Langue actuelle",
+    "searchLanguages": "Rechercher des langues...",
+    "searchResults": "Résultats de recherche",
+    "noLanguagesFound": "Aucune langue trouvée",
+    "regions": {
+      "eastasia": "Asie de l'Est",
+      "western": "Langues occidentales",
+      "southeastasia": "Asie du Sud-Est",
+      "southasia": "Asie du Sud",
+      "middleeast": "Moyen-Orient",
+      "easterneurope": "Europe de l'Est"
+    }
+  },
+  "profile": {
+    "setup": "Configuration du profil",
+    "setupRequired": "Configuration du profil requise",
+    "setupDescription": "Configurez vos informations de profil de base pour utiliser le service",
+    "setupButton": "Configurer le profil",
+    "editProfile": "Modifier le profil",
+    "profileInfo": "Informations du profil",
+    "profileInfoDescription": "Vous pouvez voir et modifier les informations de base de votre compte",
+    "name": "Nom",
+    "nativeLanguage": "Langue maternelle",
+    "residenceStatus": "Statut de résidence",
+    "firstEntryDate": "Date de première entrée",
+    "familyComposition": "Composition familiale",
+    "longTermGoal": "Objectif à long terme"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "userInfo": "Informations utilisateur",
+    "userId": "ID utilisateur",
+    "unknownProvider": "Inconnu",
+    "welcome": "Bienvenue !",
+    "welcomeDescription": "Bienvenue dans le service Kuuid",
+    "profileCompleteMessage": "La configuration du profil est terminée et vous pouvez maintenant utiliser toutes les fonctionnalités",
+    "stayDays": "Jour {{days}} en Corée",
+    "greeting": "Bonjour, {{name}} !",
+    "todayMessage": "Continuons aujourd'hui aussi avec Kuuid !",
+    "recommendedMissions": "Missions recommandées",
+    "requiredMissions": "Missions nécessaires",
+    "recommendedSimulations": "Simulations recommandées",
+    "viewAll": "Voir tout",
+    "viewDetails": "Voir les détails",
+    "start": "Commencer",
+    "startSimulation": "Démarrer la simulation",
+    "quickAccess": "Accès rapide",
+    "missions": {
+      "visaExtension": {
+        "title": "Extension de visa D-2",
+        "description": "Pratiquez la procédure de demande d'extension de visa avant l'expiration"
+      },
+      "partTimePermit": {
+        "title": "Demande de permis de travail à temps partiel",
+        "description": "Demandez un permis de travail pour un emploi à temps partiel"
+      },
+      "bankAccount": {
+        "title": "Ouverture de compte bancaire",
+        "description": "Pratiquez le processus d'ouverture d'un compte dans les banques coréennes"
+      },
+      "healthInsurance": {
+        "title": "Inscription à l'assurance maladie nationale",
+        "description": "Procédure d'inscription à l'assurance maladie pour économiser les coûts médicaux"
+      },
+      "phoneActivation": {
+        "title": "Activation de téléphone portable",
+        "description": "Pratiquez la procédure de demande d'extension de visa avant l'expiration"
+      }
+    },
+    "status": {
+      "pending": "En attente",
+      "completed": "Terminé",
+      "urgent": "Urgent"
+    }
+  },
+  "upgrade": {
+    "toPro": "Passer à Pro",
+    "upgradeButton": "Mettre à niveau"
+  },
+  "simulations": {
+    "header": "Essayez diverses simulations",
+    "start": "Démarrer la simulation",
+    "moreSimulations": "Plus de simulations en préparation",
+    "moreSimulationsDescription": "Des simulations d'activation de téléphone, d'inscription à l'assurance maladie, de contrats immobiliers, etc. seront bientôt ajoutées"
+  },
+  "success": {
+    "title": "Mission réussie !",
+    "subtitle": "Félicitations ! Vous pouvez aussi bien résoudre les situations réelles",
+    "completed": "Terminé",
+    "viewTips": "Voir les conseils d'apprentissage",
+    "retry": "Réessayer",
+    "home": "Accueil",
+    "moreSimulations": "Essayez aussi d'autres simulations"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulation",
+      "uiMode": "Mode UI",
+      "simulationMode": "Mode simulation",
+      "chatMode": "Mode chat",
+      "audioInput": "Entrée audio",
+      "textInput": "Entrée de texte",
+      "send": "Envoyer",
+      "generating": "Génération...",
+      "recording": "Enregistrement...",
+      "recordingDone": "Enregistrement terminé",
+      "pressMic": "Appuyez sur le microphone pour parler",
+      "notFound": "Scénario non trouvé",
+      "back": "Retour",
+      "conversation": "Conversation avec l'IA"
+    },
+    "status": {
+      "completed": "Terminé",
+      "in_progress": "En cours",
+      "pending": "En attente"
+    },
+    "processing": {
+      "analyzing": "Analyse audio...",
+      "transcribing": "Transcription...",
+      "generating": "Génération de réponse IA...",
+      "synthesizing": "Synthèse vocale...",
+      "complete": "Traitement terminé"
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด",
+    "success": "สำเร็จ",
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "save": "บันทึก",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "back": "กลับ",
+    "next": "ถัดไป",
+    "complete": "เสร็จสิ้น",
+    "close": "ปิด",
+    "or": "หรือ"
+  },
+  "auth": {
+    "login": "เข้าสู่ระบบ",
+    "logout": "ออกจากระบบ",
+    "loginWith": "เข้าสู่ระบบด้วย {{provider}}",
+    "githubLogin": "เข้าสู่ระบบด้วย GitHub",
+    "googleLogin": "เข้าสู่ระบบด้วย Google",
+    "welcome": "ยินดีต้อนรับ",
+    "loginDescription": "เข้าสู่ระบบง่ายๆ ด้วยบัญชีโซเชียลของคุณ",
+    "loginRequired": "จำเป็นต้องเข้าสู่ระบบ",
+    "authenticatedUser": "ผู้ใช้ที่ได้รับการยืนยัน",
+    "loginProvider": "ผู้ให้บริการการเข้าสู่ระบบ",
+    "lastLogin": "เข้าสู่ระบบล่าสุด",
+    "accountCreated": "สร้างบัญชี",
+    "newUser": "ผู้ใช้ใหม่",
+    "loginError": "เกิดข้อผิดพลาดในการเข้าสู่ระบบ กรุณาลองใหม่",
+    "processing": "กำลังประมวลผลการเข้าสู่ระบบ...",
+    "verifying": "กำลังตรวจสอบการยืนยัน...",
+    "continueWithGoogle": "ดำเนินการต่อด้วย Google",
+    "termsText": "การเข้าสู่ระบบแสดงว่าคุณยอมรับข้อกำหนดการให้บริการ"
+  },
+  "navigation": {
+    "dashboard": "แดชบอร์ด",
+    "settings": "การตั้งค่า",
+    "profile": "โปรไฟล์",
+    "language": "ภาษา",
+    "audioSessions": "การสนทนาด้วยเสียง",
+    "simulations": "การจำลองสถานการณ์"
+  },
+  "settings": {
+    "languageSettings": "การตั้งค่าภาษาระบบ",
+    "selectLanguage": "เลือกภาษาที่แสดง",
+    "languageNote": "การเปลี่ยนภาษาจะมีผลทันที",
+    "currentLanguage": "ภาษาปัจจุบัน",
+    "searchLanguages": "ค้นหาภาษา...",
+    "searchResults": "ผลการค้นหา",
+    "noLanguagesFound": "ไม่พบภาษา",
+    "regions": {
+      "eastasia": "เอเชียตะวันออก",
+      "western": "ภาษาตะวันตก",
+      "southeastasia": "เอเชียตะวันออกเฉียงใต้",
+      "southasia": "เอเชียใต้",
+      "middleeast": "ตะวันออกกลาง",
+      "easterneurope": "ยุโรปตะวันออก"
+    }
+  },
+  "profile": {
+    "setup": "การตั้งค่าโปรไฟล์",
+    "setupRequired": "จำเป็นต้องตั้งค่าโปรไฟล์",
+    "setupDescription": "ตั้งค่าข้อมูลโปรไฟล์พื้นฐานเพื่อใช้บริการ",
+    "setupButton": "ตั้งค่าโปรไฟล์",
+    "editProfile": "แก้ไขโปรไฟล์",
+    "profileInfo": "ข้อมูลโปรไฟล์",
+    "profileInfoDescription": "คุณสามารถดูและแก้ไขข้อมูลพื้นฐานของบัญชีได้",
+    "name": "ชื่อ",
+    "nativeLanguage": "ภาษาแม่",
+    "residenceStatus": "สถานะการพำนัก",
+    "firstEntryDate": "วันที่เข้าประเทศครั้งแรก",
+    "familyComposition": "องค์ประกอบครอบครัว",
+    "longTermGoal": "เป้าหมายระยะยาว"
+  },
+  "dashboard": {
+    "title": "แดชบอร์ด",
+    "userInfo": "ข้อมูลผู้ใช้",
+    "userId": "รหัสผู้ใช้",
+    "unknownProvider": "ไม่ทราบ",
+    "welcome": "ยินดีต้อนรับ!",
+    "welcomeDescription": "ยินดีต้อนรับสู่บริการ Kuuid",
+    "profileCompleteMessage": "การตั้งค่าโปรไฟล์เสร็จสิ้นแล้ว และตอนนี้คุณสามารถใช้ฟีเจอร์ทั้งหมดได้",
+    "stayDays": "วันที่ {{days}} ในเกาหลี",
+    "greeting": "สวัสดี, {{name}}!",
+    "todayMessage": "วันนี้ก็ไปกับ Kuuid ด้วยกัน!",
+    "recommendedMissions": "ภารกิจที่แนะนำ",
+    "requiredMissions": "ภารกิจที่จำเป็น",
+    "recommendedSimulations": "การจำลองสถานการณ์ที่แนะนำ",
+    "viewAll": "ดูทั้งหมด",
+    "viewDetails": "ดูรายละเอียด",
+    "start": "เริ่ม",
+    "startSimulation": "เริ่มการจำลอง",
+    "quickAccess": "เข้าถึงด่วน",
+    "missions": {
+      "visaExtension": {
+        "title": "ต่อวีซ่า D-2",
+        "description": "ฝึกกระบวนการขอต่อวีซ่าก่อนหมดอายุ"
+      },
+      "partTimePermit": {
+        "title": "ขอใบอนุญาตทำงานพาร์ทไทม์",
+        "description": "ขอใบอนุญาตทำงานสำหรับงานพาร์ทไทม์"
+      },
+      "bankAccount": {
+        "title": "เปิดบัญชีธนาคาร",
+        "description": "ฝึกกระบวนการเปิดบัญชีในธนาคารเกาหลี"
+      },
+      "healthInsurance": {
+        "title": "สมัครประกันสุขภาพแห่งชาติ",
+        "description": "กระบวนการสมัครประกันสุขภาพเพื่อประหยัดค่ารักษาพยาบาล"
+      },
+      "phoneActivation": {
+        "title": "เปิดใช้งานโทรศัพท์มือถือ",
+        "description": "ฝึกกระบวนการขอต่อวีซ่าก่อนหมดอายุ"
+      }
+    },
+    "status": {
+      "pending": "รอดำเนินการ",
+      "completed": "เสร็จสิ้น",
+      "urgent": "เร่งด่วน"
+    }
+  },
+  "upgrade": {
+    "toPro": "อัพเกรดเป็น Pro",
+    "upgradeButton": "อัพเกรด"
+  },
+  "simulations": {
+    "header": "ลองการจำลองสถานการณ์ต่างๆ",
+    "start": "เริ่มการจำลอง",
+    "moreSimulations": "การจำลองเพิ่มเติมกำลังเตรียมการ",
+    "moreSimulationsDescription": "การจำลองการเปิดใช้งานโทรศัพท์ การสมัครประกันสุขภาพ สัญญาอสังหาริมทรัพย์ ฯลฯ จะถูกเพิ่มเร็วๆ นี้"
+  },
+  "success": {
+    "title": "ภารกิจสำเร็จ!",
+    "subtitle": "ยินดีด้วย! คุณสามารถแก้ไขสถานการณ์จริงได้เป็นอย่างดีด้วย",
+    "completed": "เสร็จสิ้น",
+    "viewTips": "ดูเคล็ดลับการเรียนรู้",
+    "retry": "ลองใหม่",
+    "home": "หน้าหลัก",
+    "moreSimulations": "ลองการจำลองอื่นๆ ด้วย"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "การจำลอง",
+      "uiMode": "โหมด UI",
+      "simulationMode": "โหมดการจำลอง",
+      "chatMode": "โหมดแชท",
+      "audioInput": "ป้อนเสียง",
+      "textInput": "ป้อนข้อความ",
+      "send": "ส่ง",
+      "generating": "กำลังสร้าง...",
+      "recording": "กำลังบันทึก...",
+      "recordingDone": "บันทึกเสร็จ",
+      "pressMic": "กดไมโครโฟนเพื่อพูด",
+      "notFound": "ไม่พบสถานการณ์",
+      "back": "กลับ",
+      "conversation": "การสนทนากับ AI"
+    },
+    "status": {
+      "completed": "เสร็จสิ้น",
+      "in_progress": "กำลังดำเนินการ",
+      "pending": "รอดำเนินการ"
+    },
+    "processing": {
+      "analyzing": "กำลังวิเคราะห์เสียง...",
+      "transcribing": "กำลังถอดความ...",
+      "generating": "กำลังสร้างการตอบสนองของ AI...",
+      "synthesizing": "กำลังสังเคราะห์เสียง...",
+      "complete": "ประมวลผลเสร็จสิ้น"
+    }
+  }
+}

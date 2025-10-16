@@ -1,0 +1,173 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "success": "Berhasil",
+    "cancel": "Batal",
+    "confirm": "Konfirmasi",
+    "save": "Simpan",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "complete": "Selesai",
+    "close": "Tutup",
+    "or": "atau"
+  },
+  "auth": {
+    "login": "Masuk",
+    "logout": "Keluar",
+    "loginWith": "Masuk dengan {{provider}}",
+    "githubLogin": "Masuk dengan GitHub",
+    "googleLogin": "Masuk dengan Google",
+    "welcome": "Selamat datang",
+    "loginDescription": "Masuk dengan mudah menggunakan akun sosial Anda",
+    "loginRequired": "Login diperlukan",
+    "authenticatedUser": "Pengguna terautentikasi",
+    "loginProvider": "Penyedia login",
+    "lastLogin": "Login terakhir",
+    "accountCreated": "Akun dibuat",
+    "newUser": "Pengguna baru",
+    "loginError": "Terjadi kesalahan saat login. Silakan coba lagi.",
+    "processing": "Memproses login...",
+    "verifying": "Memverifikasi autentikasi...",
+    "continueWithGoogle": "Lanjutkan dengan Google",
+    "termsText": "Dengan masuk, Anda menyetujui syarat layanan"
+  },
+  "navigation": {
+    "dashboard": "Dasbor",
+    "settings": "Pengaturan",
+    "profile": "Profil",
+    "language": "Bahasa",
+    "audioSessions": "Percakapan suara",
+    "simulations": "Simulasi"
+  },
+  "settings": {
+    "languageSettings": "Pengaturan bahasa sistem",
+    "selectLanguage": "Pilih bahasa tampilan",
+    "languageNote": "Perubahan bahasa diterapkan secara langsung",
+    "currentLanguage": "Bahasa saat ini",
+    "searchLanguages": "Cari bahasa...",
+    "searchResults": "Hasil pencarian",
+    "noLanguagesFound": "Tidak ada bahasa ditemukan",
+    "regions": {
+      "eastasia": "Asia Timur",
+      "western": "Bahasa Barat",
+      "southeastasia": "Asia Tenggara",
+      "southasia": "Asia Selatan",
+      "middleeast": "Timur Tengah",
+      "easterneurope": "Eropa Timur"
+    }
+  },
+  "profile": {
+    "setup": "Pengaturan profil",
+    "setupRequired": "Pengaturan profil diperlukan",
+    "setupDescription": "Atur informasi profil dasar untuk menggunakan layanan",
+    "setupButton": "Atur profil",
+    "editProfile": "Edit profil",
+    "profileInfo": "Informasi profil",
+    "profileInfoDescription": "Anda dapat melihat dan mengedit informasi dasar akun Anda",
+    "name": "Nama",
+    "nativeLanguage": "Bahasa asli",
+    "residenceStatus": "Status tinggal",
+    "firstEntryDate": "Tanggal masuk pertama",
+    "familyComposition": "Komposisi keluarga",
+    "longTermGoal": "Tujuan jangka panjang"
+  },
+  "dashboard": {
+    "title": "Dasbor",
+    "userInfo": "Informasi pengguna",
+    "userId": "ID pengguna",
+    "unknownProvider": "Tidak diketahui",
+    "welcome": "Selamat datang!",
+    "welcomeDescription": "Selamat datang di layanan Kuuid",
+    "profileCompleteMessage": "Pengaturan profil selesai dan sekarang Anda dapat menggunakan semua fitur",
+    "stayDays": "Hari ke-{{days}} di Korea",
+    "greeting": "Halo, {{name}}!",
+    "todayMessage": "Hari ini juga mari maju bersama Kuuid!",
+    "recommendedMissions": "Misi yang direkomendasikan",
+    "requiredMissions": "Misi yang diperlukan",
+    "recommendedSimulations": "Simulasi yang direkomendasikan",
+    "viewAll": "Lihat semua",
+    "viewDetails": "Lihat detail",
+    "start": "Mulai",
+    "startSimulation": "Mulai simulasi",
+    "quickAccess": "Akses cepat",
+    "missions": {
+      "visaExtension": {
+        "title": "Perpanjangan visa D-2",
+        "description": "Latih prosedur aplikasi perpanjangan visa sebelum berakhir"
+      },
+      "partTimePermit": {
+        "title": "Aplikasi izin kerja paruh waktu",
+        "description": "Ajukan izin kerja untuk pekerjaan paruh waktu"
+      },
+      "bankAccount": {
+        "title": "Pembukaan rekening bank",
+        "description": "Latih proses pembukaan rekening di bank Korea"
+      },
+      "healthInsurance": {
+        "title": "Pendaftaran asuransi kesehatan nasional",
+        "description": "Prosedur pendaftaran asuransi kesehatan untuk menghemat biaya medis"
+      },
+      "phoneActivation": {
+        "title": "Aktivasi ponsel",
+        "description": "Latih prosedur aplikasi perpanjangan visa sebelum berakhir"
+      }
+    },
+    "status": {
+      "pending": "Menunggu",
+      "completed": "Selesai",
+      "urgent": "Mendesak"
+    }
+  },
+  "upgrade": {
+    "toPro": "Upgrade ke Pro",
+    "upgradeButton": "Upgrade"
+  },
+  "simulations": {
+    "header": "Coba berbagai simulasi",
+    "start": "Mulai simulasi",
+    "moreSimulations": "Lebih banyak simulasi sedang disiapkan",
+    "moreSimulationsDescription": "Simulasi aktivasi ponsel, pendaftaran asuransi kesehatan, kontrak real estat, dll. akan segera ditambahkan"
+  },
+  "success": {
+    "title": "Misi berhasil!",
+    "subtitle": "Selamat! Anda juga dapat menyelesaikan situasi nyata dengan baik",
+    "completed": "Selesai",
+    "viewTips": "Lihat tips pembelajaran",
+    "retry": "Coba lagi",
+    "home": "Beranda",
+    "moreSimulations": "Coba simulasi lainnya juga"
+  },
+  "simulation": {
+    "labels": {
+      "pageTitle": "Simulasi",
+      "uiMode": "Mode UI",
+      "simulationMode": "Mode simulasi",
+      "chatMode": "Mode chat",
+      "audioInput": "Input audio",
+      "textInput": "Input teks",
+      "send": "Kirim",
+      "generating": "Menghasilkan...",
+      "recording": "Merekam...",
+      "recordingDone": "Rekaman selesai",
+      "pressMic": "Tekan mikrofon untuk berbicara",
+      "notFound": "Skenario tidak ditemukan",
+      "back": "Kembali",
+      "conversation": "Percakapan dengan AI"
+    },
+    "status": {
+      "completed": "Selesai",
+      "in_progress": "Sedang berlangsung",
+      "pending": "Menunggu"
+    },
+    "processing": {
+      "analyzing": "Menganalisis audio...",
+      "transcribing": "Mentranskrip...",
+      "generating": "Menghasilkan respons AI...",
+      "synthesizing": "Mensintesis suara...",
+      "complete": "Pemrosesan selesai"
+    }
+  }
+}
