@@ -5,8 +5,8 @@ import { authService } from '../services/auth';
 const api = axios.create({
   baseURL:
     process.env.NODE_ENV === 'production'
-      ? 'https://clips.a.pinggy.link'
-      : 'http://localhost:3001', // 프로덕션/로컬 백엔드 URL
+      ? 'https://plndk-49-143-88-169.a.free.pinggy.link'
+      : 'http://localhost:8000', // 프로덕션/로컬 백엔드 URL
   timeout: 10000,
 });
 
